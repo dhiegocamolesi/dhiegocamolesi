@@ -58,3 +58,19 @@ Me chamo Dhiego Coletto Camolesi, sou formado em Análise e Desenvolvimento de S
 <br/>
 <br/>
 
+
+## 💡 Projetos em Destaque
+
+### 🔋 Windfarm – Processamento de Dados em Tempo Real com AWS
+
+Simulação de sensores de turbinas eólicas com ingestão de dados em tempo real usando AWS Kinesis, Firehose, Glue e Athena.
+
+🔗 [Acesse o projeto Windfarm](https://github.com/dhiegocamolesi/dhiegocamolesi/tree/a58e7701789d08ce436124f072d8db0a228ec37b/proj_windfarm)
+
+📊 Tecnologias: Python, AWS Kinesis, AWS 3, AWS Glue, AWS Athena
+
+
+
+
+
+

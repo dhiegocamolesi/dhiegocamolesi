@@ -6,7 +6,7 @@ import time
 from datetime import datetime
 
 
-cliente = boto3.client('kinesis',aws_access_key_id='AKIA26DMOKGYQIFBWKFW', aws_secret_access_key='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',
+cliente = boto3.client('kinesis',aws_access_key_id='MEU ACESSO', aws_secret_access_key='MINHA SENHA',
                        region_name='us-east-1')
 
 id = 0

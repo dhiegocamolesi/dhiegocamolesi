@@ -1,3 +1,3 @@
 # Projeto Automação
 
-Este é o repositório para o projeto Automação, que acessa determinado site e realiza cadastro automático de produtos de arquivo com os dados existentes em arquivo do tipo 'csv'
+Este repositório abriga o projeto Automação de Cadastro de Produtos, desenvolvido em Python. A aplicação realiza a leitura de dados a partir de um arquivo CSV e automatiza o processo de cadastro de produtos em um site específico. Este projeto tem como objetivo otimizar tarefas repetitivas e aumentar a eficiência operacional.

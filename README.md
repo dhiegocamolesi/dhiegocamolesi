@@ -83,7 +83,7 @@ Simulação de sensores de turbinas eólicas com ingestão de dados em tempo rea
 
 Projeto de Análise de Score de Crédito de Clientes com previsões utilizando IA
 
-🔗 [Acesse o projeto](https://github.com/dhiegocamolesi/dhiegocamolesi/tree/360f8de2b3b3ba8021919c113cba2c08e99d4135/proj_analisedados)
+🔗 [Acesse o projeto](https://github.com/dhiegocamolesi/dhiegocamolesi/tree/360f8de2b3b3ba8021919c113cba2c08e99d4135/proj_scorecred_ia)
 
 📊 Tecnologias: Python, Pandas, Sklearn
 
@@ -95,7 +95,7 @@ Projeto de Análise de Score de Crédito de Clientes com previsões utilizando I
 
 Aplicação realiza a leitura de dados a partir de um arquivo CSV e automatiza o processo de cadastro de produtos em um site
 
-🔗 [Acesse o projeto](https://github.com/dhiegocamolesi/dhiegocamolesi/tree/b3378b067eb6798a0f8bed768981362536e4fdf9/proj_scorecred_ia)
+🔗 [Acesse o projeto](https://github.com/dhiegocamolesi/dhiegocamolesi/tree/360f8de2b3b3ba8021919c113cba2c08e99d4135/proj_automacao)
 
 📊 Tecnologias: Python, Pyautogui
 

@@ -5,6 +5,7 @@
 
 https://www.linkedin.com/in/dhiego-camolesi-6b0439167/
 
+
 Me chamo Dhiego Coletto Camolesi, sou formado em Análise e Desenvolvimento de Sistemas, com pós graduação em Análise e Gerenciamento de Projetos com ênfase em Business Intelligence (UEL). Atualmente, estou cursando graduação em Ciência de Dados.
 
 ---

@@ -79,7 +79,7 @@ Simulação de sensores de turbinas eólicas com ingestão de dados em tempo rea
 <br/>
 
 
-### 🔋 IA e Previsões
+### 🔋 Python IA e Previsões
 
 Projeto de Análise de Score de Crédito de Clientes com previsões utilizando IA
 

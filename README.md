@@ -107,6 +107,17 @@ Análise de dados de uma empresa com mais de 800 mil clientes para um projeto qu
 
 📊 Tecnologias: Python, Pandas
 
+---
+
+
+### 🔋 MySQL - Estrutura Automatizada para Atualização de Views Materializadas
+
+Implementação de uma arquitetura no MySQL que permite a atualização automática de views materializadas utilizando procedures armazenadas e eventos agendados nativos do banco de dados.
+
+🔗 [Acesse o projeto](https://github.com/dhiegocamolesi/dhiegocamolesi/tree/1b40c249d3721d300a588820b1451c130529df68/views_materializadas/src)
+
+📊 Tecnologias: MySQL
+
 
 
 

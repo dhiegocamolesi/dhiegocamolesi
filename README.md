@@ -29,11 +29,11 @@ https://www.linkedin.com/in/dhiego-camolesi-6b0439167/
 />
 <img 
     align="left" 
-    alt="MYSQL" 
-    title="MYSQL"
+    alt="Spark" 
+    title="Spark"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" 
 />
 <img 
     align="left" 

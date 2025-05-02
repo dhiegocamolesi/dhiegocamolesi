@@ -1,1 +1,23 @@
+BEGIN   
+	DECLARE EXIT HANDLER FOR SQLSTATE '42000'  
+	SELECT 'ERROR! existe um matview ou uma tabela com esse nome. não prosseguirá' as ERR;  
+	DECLARE EXIT HANDLER FOR SQLSTATE '23000'  
+	
+	SELECT 'ERROR! a um matview com esse nome já existe. não prosseguirá' as ERR;  
+	IF (select count(*) from information_schema.tables where table_schema in (select database()) and table_name=matview ) THEN  
+		call raise_error;  
+	END IF;  
+	
+	SET @time_start = CURRENT_TIMESTAMP();  
+	SET @crtbl= CONCAT('CREATE TABLE ',matview,' as select * from ', view_name);  
+	prepare stmt from @crtbl;  
+	EXECUTE stmt;  
+	DEALLOCATE PREPARE stmt;  
+	SET @time_stop = CURRENT_TIMESTAMP();  
+	SELECT @time_start as Refresh_start, @time_stop as Refresh_end;  
+	INSERT INTO matviews (mv, view, last_refresh,refresh_time) VALUES (matview, view_name, @time_start, UNIX_TIMESTAMP(@time_stop) -UNIX_TIMESTAMP(@time_start));  
+END
 
+
+IN `matview` varchar(64),
+IN `view_name` varchar(64)

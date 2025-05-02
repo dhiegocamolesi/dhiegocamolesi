@@ -60,10 +60,9 @@ https://www.linkedin.com/in/dhiego-camolesi-6b0439167/
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+---
 <br/>
 <br/>
-<br/>
-
 
 ## 💡 Projetos em Destaque
 
@@ -75,8 +74,7 @@ Simulação de sensores de turbinas eólicas com ingestão de dados em tempo rea
 
 📊 Tecnologias: Python, AWS Kinesis, AWS 3, AWS Glue, AWS Athena
 
-<br/>
-<br/>
+---
 
 
 ### 🔋 Python IA e Previsões
@@ -87,8 +85,7 @@ Projeto de Análise de Score de Crédito de Clientes com previsões utilizando I
 
 📊 Tecnologias: Python, Pandas, Sklearn
 
-<br/>
-<br/>
+---
 
 
 ### 🔋 Python Automação
@@ -99,8 +96,7 @@ Aplicação realiza a leitura de dados a partir de um arquivo CSV e automatiza o
 
 📊 Tecnologias: Python, Pyautogui
 
-<br/>
-<br/>
+---
 
 
 ### 🔋 Python Insights
@@ -111,8 +107,6 @@ Análise de dados de uma empresa com mais de 800 mil clientes para um projeto qu
 
 📊 Tecnologias: Python, Pandas
 
-<br/>
-<br/>
 
 
 

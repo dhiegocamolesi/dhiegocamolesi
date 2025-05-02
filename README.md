@@ -59,6 +59,14 @@ https://www.linkedin.com/in/dhiego-camolesi-6b0439167/
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 ---
 <br/>
@@ -117,6 +125,8 @@ Implementação de uma arquitetura no MySQL que permite a atualização automát
 🔗 [Acesse o projeto](https://github.com/dhiegocamolesi/dhiegocamolesi/tree/1b40c249d3721d300a588820b1451c130529df68/views_materializadas/src)
 
 📊 Tecnologias: MySQL
+
+---
 
 
 

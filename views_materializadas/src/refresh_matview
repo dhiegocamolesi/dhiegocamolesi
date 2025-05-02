@@ -1,1 +1,29 @@
+BEGIN   
 
+	DECLARE EXIT HANDLER FOR SQLSTATE '42000'  
+	SELECT 'ERROR! um matview com esse nome não existe, não prosseguirá' as ERR;  
+	IF (select count(*)!=1 from matviews where mv= matview ) then   
+		call raise_error;  
+	END IF;    
+	
+	START TRANSACTION;  
+	SET @time_start = CURRENT_TIMESTAMP();  
+	SET @v_name = (SELECT view from matviews where mv=matview limit 1);  
+	SET @crtbl= CONCAT('DELETE FROM ',matview);  
+	prepare stmt from @crtbl;  
+	EXECUTE stmt;  
+	DEALLOCATE PREPARE stmt;    
+	
+	SET @crtbl= CONCAT('INSERT INTO ',matview,' SELECT * FROM ',@v_name);  
+	prepare stmt from @crtbl;  
+	EXECUTE stmt;  
+	DEALLOCATE PREPARE stmt;  
+	SET @time_stop = CURRENT_TIMESTAMP();  
+	SELECT @time_start as Refresh_start, @time_stop as Refresh_end;  
+	update matviews set last_refresh = @time_start, refresh_time=UNIX_TIMESTAMP(@time_stop) -UNIX_TIMESTAMP(@time_start) where mv=matview;  
+	COMMIT;  
+END
+
+
+
+matview varchar(64)

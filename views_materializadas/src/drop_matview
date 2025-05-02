@@ -1,1 +1,19 @@
+BEGIN      
+	DECLARE EXIT HANDLER FOR SQLSTATE '42000'  
+	SELECT 'ERROR! um matview com esse nome não existe, não prosseguirá' as ERR;  
+	SET AUTOCOMMIT=0;  
+	IF (select count(*)!=1   from matviews  where mv= matview  ) THEN  
+		call raise_error;  
+	END IF;    
+
+	START TRANSACTION;  
+	SET @crtbl= CONCAT('drop table ',matview);  
+	prepare stmt from @crtbl;  
+	EXECUTE stmt;  
+	DEALLOCATE PREPARE stmt;  
+	delete from matviews where mv=matview;  
+	COMMIT;    
+END
+
+matview varchar(64)
 

@@ -21,4 +21,3 @@
 | Banco de Dados       | PostgreSQL / MySQL                                  |
 | Visualização         | Power BI, Streamlit                                 |
 | Ambiente             | VS Code                                 |
-| Versionamento        | Git e GitHub                                         |

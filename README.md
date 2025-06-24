@@ -74,6 +74,16 @@ https://www.linkedin.com/in/dhiego-camolesi-6b0439167/
 
 ## 💡 Projetos em Destaque
 
+### 🔋 E-commerce Data Analysis – Projeto Completo de Análise de Dados
+
+Projeto robusto de análise de dados, onde trabalhei todo o pipeline, do ETL até a construção de dashboards interativos, utilizando dados públicos do marketplace Olist.
+
+🔗 [Acesse o projeto](https://github.com/dhiegocamolesi/dhiegocamolesi/tree/f85441a39520052d73d3d94a9f1006221d849bc9/ecommerce_data_analysis)
+
+📊 Tecnologias: Python, Power BI, Mysql
+
+---
+
 ### 🔋 Windfarm – Processamento de Dados em Tempo Real com AWS
 
 Simulação de sensores de turbinas eólicas com ingestão de dados em tempo real usando AWS Kinesis, Firehose, Glue e Athena.

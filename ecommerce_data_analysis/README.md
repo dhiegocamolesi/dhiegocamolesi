@@ -16,9 +16,9 @@
 
 | Categoria            | Ferramentas                                         |
 | -------------------- | ---------------------------------------------------- |
-| Linguagem            | Python 3.10                                          |
+| Linguagem            | Python 3.13.2                                          |
 | Bibliotecas Python   | Pandas, NumPy, Seaborn, Matplotlib, Plotly, Streamlit, SQLAlchemy |
 | Banco de Dados       | PostgreSQL / MySQL                                  |
 | Visualização         | Power BI, Streamlit                                 |
-| Ambiente             | JupyterLab, VS Code                                 |
+| Ambiente             | VS Code                                 |
 | Versionamento        | Git e GitHub                                         |

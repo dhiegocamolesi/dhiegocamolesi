@@ -1,3 +1,0 @@
-order_id,customer_id,order_status,order_purchase_timestamp,order_delivered_customer_date
-order_1,cust_1,delivered,2018-01-01 10:00:00,2018-01-10
-order_2,cust_2,shipped,2018-02-01 12:00:00,2018-02-10

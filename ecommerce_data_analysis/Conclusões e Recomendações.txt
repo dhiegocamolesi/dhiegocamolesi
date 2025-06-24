@@ -1,0 +1,12 @@
+.Conclusões da EDA
+✔️ Crescimento constante nos pedidos até o período analisado.
+✔️ Cartão de crédito é o meio de pagamento predominante.
+✔️ A maioria dos clientes está concentrada em SP, RJ e MG.
+✔️ Categorias mais populares são relacionadas a utilidades, casa e beleza.
+✔️ O tempo médio de entrega gira em torno de 10 dias, com alguns atrasos extremos.
+✔️ A maior parte dos clientes dá nota 5, mas existe uma quantidade expressiva de notas 1, indicando experiências ruins em alguns casos.
+
+.Recomendações Finais
+-Otimizar logística para reduzir tempo de entrega.
+-Avaliar pontos de melhoria nos processos que geram avaliações baixas.
+-Focar em estados de maior volume para ações de marketing.

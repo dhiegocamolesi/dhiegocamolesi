@@ -74,6 +74,18 @@ https://www.linkedin.com/in/dhiego-camolesi-6b0439167/
 
 ## 💡 Projetos em Destaque
 
+
+### 🛒 Churn de Clientes no E-commerce Olist com Databricks
+
+Este projeto analisa e prevê o churn (abandono) de clientes em um e-commerce, utilizando a base pública da Olist.
+O objetivo foi identificar padrões de comportamento de clientes que deixam de comprar, criando uma base robusta de features e treinando um modelo de machine learning para prever churn. 
+
+🔗 [Acesse o projeto](https://github.com/dhiegocamolesi/dhiegocamolesi/tree/f65bc936ec746b3f5c3e05ed1a31e5d04a7b1bb7/ecommerce_churn_prediction)
+
+📊 Tecnologias: Databricks + Spark, Delta Lake, PySpark, MLflow, Streamlit + Altair, Pandas, Seaborn, Matplotlib
+
+---
+
 ### 🔋 E-commerce Data Analysis – Projeto Completo de Análise de Dados
 
 Projeto robusto de análise de dados, onde trabalhei todo o pipeline, do ETL até a construção de dashboards interativos, utilizando dados públicos do marketplace Olist.

@@ -79,7 +79,7 @@ https://www.linkedin.com/in/dhiego-camolesi-6b0439167/
 Este projeto foi desenvolvido como solução para o desafio [Home Credit - Credit Risk Model Stability](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability), 
 com o objetivo de prever o risco de inadimplência de clientes com estabilidade entre diferentes períodos de tempo. 
 
-🔗 [Acesse o projeto](https://github.com/dhiegocamolesi/dhiegocamolesi/tree/f65bc936ec746b3f5c3e05ed1a31e5d04a7b1bb7/ecommerce_churn_prediction)
+🔗 [Acesse o projeto](https://github.com/dhiegocamolesi/dhiegocamolesi/tree/2900b3d0830d322a4fb000f5bba111d4beb1876a/Home_Credit_Credit_Risk_Model)
 
 📊 Tecnologias: Python, Pandas, XGBoost, SHAP, Scikit-learn, Matplotlib, Seaborn
 

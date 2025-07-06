@@ -74,6 +74,17 @@ https://www.linkedin.com/in/dhiego-camolesi-6b0439167/
 
 ## 💡 Projetos em Destaque
 
+### 🛒 Projeto de Modelagem de Risco de Crédito — Desafio Home Credit (Kaggle)
+
+Este projeto foi desenvolvido como solução para o desafio [Home Credit - Credit Risk Model Stability](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability), 
+com o objetivo de prever o risco de inadimplência de clientes com estabilidade entre diferentes períodos de tempo. 
+
+🔗 [Acesse o projeto](https://github.com/dhiegocamolesi/dhiegocamolesi/tree/f65bc936ec746b3f5c3e05ed1a31e5d04a7b1bb7/ecommerce_churn_prediction)
+
+📊 Tecnologias: Python, Pandas, XGBoost, SHAP, Scikit-learn, Matplotlib, Seaborn
+
+---
+
 
 ### 🛒 Churn de Clientes no E-commerce Olist com Databricks
 

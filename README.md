@@ -8,7 +8,7 @@ Me chamo Dhiego Coletto Camolesi, sou formado em Análise e Desenvolvimento de S
 <br/>
 
 
-[![Download Currículo](https://img.shields.io/badge/Download%20Currículo-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](Dhiego-Camolesi-AnalistaDados-BI.pdf)
+[![Download Currículo](https://github.com/dhiegocamolesi/dhiegocamolesi/blob/9cc3c752e93c06d012ce431622a7c34a21921790/Dhiego-Camolesi-AnalistaDados-BI.pdf)
 
 https://www.linkedin.com/in/dhiego-camolesi-6b0439167/
 

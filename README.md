@@ -88,7 +88,8 @@ com o objetivo de prever o risco de inadimplência de clientes com estabilidade 
 
 Este projeto realiza a extração de indicadores da API de Países do IBGE, com base em uma lista pré-definida de paíse alvo, normaliza os dados e armazena os resultados em um banco de dados PostgreSQL.
 
-https://github.com/dhiegocamolesi/dhiegocamolesi/tree/f2bb50bc87656733ee01426578e14b845238b013/DadosIndicadoresIBGE
+🔗 [Acesse o projeto](https://github.com/dhiegocamolesi/dhiegocamolesi/tree/f2bb50bc87656733ee01426578e14b845238b013/DadosIndicadoresIBGE)
+
 ---
 
 ### 🛒 Churn de Clientes no E-commerce Olist com Databricks
